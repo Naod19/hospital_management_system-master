@@ -1,6 +1,6 @@
-DATABASE_URL = mongodb+srv://naodyemane96_db_user:XokYKVjlSKG9CXcY@naod19.ym2kzsl.mongodb.net/?retryWrites=true&w=majority&appName=naod19
-awsDB = mongodb://localhost:27017/Sera-akuan,
-mongodb+srv://awanmabur212:J1XdsXPeg6D7iew5@sera-akuan.pmu9x.mongodb.net/?retryWrites=true&w=majority&appName=sera-akuan
+DATABASE_URL = mongodb+srv://naodyemane96_db_user:<121893>@naod19.ym2kzsl.mongodb.net/?retryWrites=true&w=majority&appName=naod19
+; awsDB = mongodb://localhost:27017/Sera-akuan,
+; mongodb+srv://awanmabur212:J1XdsXPeg6D7iew5@sera-akuan.pmu9x.mongodb.net/?retryWrites=true&w=majority&appName=sera-akuan
 PRIVATE_KEY= Bearer4715aed3c946f7b0a38e6b534a9583628d84e96d10fbc04700770d572af3dce436253dce43625
 HOST="awanmabur2@gmail.com"
 EMAIL_SERVICE="gmail"
